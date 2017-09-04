@@ -12,9 +12,8 @@ collections:
     title: Uploads
     output: true
 email: akshat.kedia@outlook.com
-description: 'A blog by Akshat Kedia.
-
-'
+description: Personal website of Akshat Kedia, student at Launchschool and freelance
+  web developer.
 url: https://akshatkedia.github.io/
 twitter_username: _akshatkedia
 github_username: akshatkedia
