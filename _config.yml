@@ -1,0 +1,20 @@
+---
+title: Akshat Kedia | Web Developer
+timezone: Asia/Kolkata
+collections:
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: akshat.kedia@outlook.com
+description: Personal website of Akshat Kedia, student at Launchschool and freelance
+  web developer.
+url: https://akshatkedia.github.io/
+twitter_username: _akshatkedia
+github_username: akshatkedia
+markdown: kramdown
