@@ -12,7 +12,11 @@ layout: default
     {% for project in site.projects %}
       <li>
         <h2>
+          {% if project.link %}
           <a class="post-link" href="{{ project.link }}">{{ project.title | escape }}</a>
+          {% else %}
+          {{ project.title | escape }}
+          {% endif %}
         </h2>
       </li>
     {% endfor %}
