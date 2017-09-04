@@ -16,7 +16,7 @@ defaults:
     path: ''
     type: projects
   values:
-    link:
+    link: 
 email: akshat.kedia@outlook.com
 description: Personal website of Akshat Kedia, student at Launchschool and freelance
   web developer.
