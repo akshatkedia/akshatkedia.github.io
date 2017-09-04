@@ -1,6 +1,6 @@
 ---
-title: Akshat Kedia | Web Developer
-timezone: UTC
+title: Akshat Kedia's Webspace
+timezone: Asia/Kolkata
 collections:
   posts:
     title: Posts
@@ -12,27 +12,11 @@ collections:
     title: Uploads
     output: true
 email: akshat.kedia@outlook.com
-description: 'Personal website of Akshat Kedia, student at Launchschool and freelance
-  web developer.
+description: 'A blog by Akshat Kedia.
 
 '
-baseurl: ''
-url: akshatkedia.github.io
+baseurl: 
+url: http://yourdomain.com
 twitter_username: _akshatkedia
 github_username: akshatkedia
-author: Akshat Kedia
-twitter:
-  username: _akshatkedia
 markdown: kramdown
-theme: minima
-plugins:
-- jekyll-seo-tag
-- jekyll-sitemap
-exclude:
-- Gruntfile.js
-- Gemfile
-- Gemfile.lock
-- package.json
-- README*
-- node_modules
-- ".gitignore"
