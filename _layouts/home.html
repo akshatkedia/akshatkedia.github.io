@@ -13,7 +13,7 @@ layout: default
       <li>
         <h2>
           {% if project.link %}
-          <a class="post-link" href="{{ project.link }}">{{ project.title | escape }}</a>
+          <a class="post-link" href="{{ project.link }}" target="_blank">{{ project.title | escape }}</a>
           {% else %}
           {{ project.title | escape }}
           {% endif %}
