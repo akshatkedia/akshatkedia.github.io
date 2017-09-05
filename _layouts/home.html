@@ -18,6 +18,7 @@ layout: default
           {{ project.title | escape }}
           {% endif %}
         </h2>
+        {{ project.content | markdownify }}
       </li>
     {% endfor %}
   </ul>
