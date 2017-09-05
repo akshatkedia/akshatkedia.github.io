@@ -17,6 +17,9 @@ defaults:
     type: projects
   values:
     link: 
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
 email: akshat.kedia@outlook.com
 description: Personal website of Akshat Kedia, student at Launchschool and freelance
   web developer.
