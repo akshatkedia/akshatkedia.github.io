@@ -16,10 +16,10 @@ defaults:
     path: ''
     type: projects
   values:
-    link:
+    link: 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+- jekyll-seo-tag
+- jekyll-sitemap
 email: akshat.kedia@outlook.com
 description: Personal website of Akshat Kedia, student at Launchschool and freelance
   web developer.
