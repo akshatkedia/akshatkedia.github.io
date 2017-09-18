@@ -21,7 +21,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 email: akshat.kedia@outlook.com
-description: Personal website of Akshat Kedia, student at Launchschool and freelance
+description: Personal website of Akshat Kedia, student at Launchschool and a freelance
   web developer.
 permalink: pretty
 url: https://akshatkedia.github.io/
