@@ -4,4 +4,4 @@ date: 2017-09-05 00:02:00 +05:30
 link: http://www.thedesignery.in/
 ---
 
-Jekyll based website powered by Siteleaf.
+Portfolio website of Nikita Mehta Shah a Mumbai based graphic designer.
