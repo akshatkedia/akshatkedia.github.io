@@ -16,12 +16,12 @@ defaults:
     path: ''
     type: projects
   values:
-    link: 
+    link:
 plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 email: akshat@zenmind.studio
-description: Personal website of Akshat Kedia, co-founder Zenmind Studio.
+description: Personal website of Akshat Kedia, founder Zenmind Studio.
 permalink: pretty
 url: https://akshatkedia.github.io/
 twitter_username: _akshatkedia
