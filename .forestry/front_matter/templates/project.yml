@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Project
 hide_body: false
 is_partial: false
@@ -12,3 +9,5 @@ fields:
 - type: text
   name: link
   label: Link
+pages:
+- _projects/indian-food-lovers-barcelona.md
