@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Project
 hide_body: false
 is_partial: false
@@ -13,4 +10,5 @@ fields:
   name: link
   label: Link
 pages:
+- _projects/papa-pawsome.md
 - _projects/indian-food-lovers-barcelona.md
