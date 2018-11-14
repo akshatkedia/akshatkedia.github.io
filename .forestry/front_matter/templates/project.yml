@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Project
 hide_body: false
 is_partial: false
@@ -13,6 +10,7 @@ fields:
   name: link
   label: Link
 pages:
+- _projects/leefe.md
 - _projects/mystic-ved.md
 - _projects/indiaspend.md
 - _projects/maker-s-asylum-membership-portal.md
