@@ -20,9 +20,8 @@ defaults:
 plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
-email: akshat.kedia@outlook.com
-description: Personal website of Akshat Kedia, student at Launchschool and a freelance
-  web developer.
+email: akshat@zenmind.studio
+description: Personal website of Akshat Kedia, founder Zenmind Studio.
 permalink: pretty
 url: https://akshatkedia.github.io/
 twitter_username: _akshatkedia
