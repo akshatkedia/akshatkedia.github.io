@@ -4,4 +4,4 @@ link: https://www.thethumbprints.ca/
 date: 2019-01-21 11:38:21 +0530
 
 ---
-Website for a handicrafts and art gallery company.
+A website for a handicrafts and art gallery company.
