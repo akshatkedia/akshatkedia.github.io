@@ -9,6 +9,7 @@ fields:
   name: link
   label: Link
 pages:
+- _projects/the-loft-forum.md
 - _projects/maker-s-asylum-membership-portal.md
 - _projects/bets-consulting.md
 - _projects/the-thumbprints.md
