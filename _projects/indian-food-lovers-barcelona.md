@@ -1,7 +1,7 @@
 ---
 title: Indian Food Lovers Barcelona
-date: 2018-10-30 17:55:13 +05:30
+date: '2018-10-30T12:25:13.000+00:00'
 link: https://indianfoodloversbarcelona.es/
----
 
+---
 WooCommerce powered website with food ordering system for Indian Food in Barcelona.
