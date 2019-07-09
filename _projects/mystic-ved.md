@@ -1,7 +1,7 @@
 ---
 title: Mystic Ved
-date: 2018-11-14 12:42:34 +05:30
+date: '2018-11-14T07:12:34.000+00:00'
 link: https://mysticved.com/
----
 
-WooCommerce powered website.
+---
+E-commerce website for a cosmetics and skin care company.
