@@ -9,6 +9,7 @@ fields:
   name: link
   label: Link
 pages:
+- _projects/bets-consulting.md
 - _projects/the-thumbprints.md
 - _projects/papa-pawsome.md
 - _projects/indiaspend.md
