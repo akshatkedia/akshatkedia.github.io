@@ -9,6 +9,7 @@ fields:
   name: link
   label: Link
 pages:
+- _projects/naive-streets.md
 - _projects/localground.md
 - _projects/gauri-arora.md
 - _projects/indian-food-lovers-barcelona.md
