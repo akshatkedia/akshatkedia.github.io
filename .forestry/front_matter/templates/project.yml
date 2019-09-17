@@ -9,6 +9,7 @@ fields:
   name: link
   label: Link
 pages:
+- _projects/frida-annual-report-2018.md
 - _projects/naive-streets.md
 - _projects/localground.md
 - _projects/gauri-arora.md
