@@ -9,16 +9,16 @@ fields:
   name: link
   label: Link
 pages:
-- _projects/localground.md
-- _projects/naive-streets.md
+- _projects/bets-consulting.md
 - _projects/frida-annual-report-2018.md
 - _projects/gauri-arora.md
 - _projects/indian-food-lovers-barcelona.md
-- _projects/papa-pawsome.md
-- _projects/leefe.md
 - _projects/indiaspend.md
-- _projects/the-loft-forum.md
+- _projects/leefe.md
+- _projects/localground.md
 - _projects/maker-s-asylum-membership-portal.md
-- _projects/bets-consulting.md
-- _projects/the-thumbprints.md
 - _projects/mystic-ved.md
+- _projects/naive-streets.md
+- _projects/papa-pawsome.md
+- _projects/the-loft-forum.md
+- _projects/the-thumbprints.md
